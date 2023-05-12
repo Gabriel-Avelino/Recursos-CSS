@@ -1,4 +1,4 @@
-# Grid
+# Grid: Layouts
 
 - Bidimensional
 - Divisão da página em linhas e colunas.
